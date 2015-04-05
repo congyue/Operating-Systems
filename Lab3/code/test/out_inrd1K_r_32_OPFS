@@ -1,0 +1,2477 @@
+==> inst: 0 18
+0: ZERO        0
+0: MAP    18   0
+==> inst: 0 44
+1: ZERO        1
+1: MAP    44   1
+==> inst: 0 8
+2: ZERO        2
+2: MAP     8   2
+==> inst: 0 42
+3: ZERO        3
+3: MAP    42   3
+==> inst: 0 27
+4: ZERO        4
+4: MAP    27   4
+==> inst: 0 32
+5: ZERO        5
+5: MAP    32   5
+==> inst: 0 25
+6: ZERO        6
+6: MAP    25   6
+==> inst: 0 55
+7: ZERO        7
+7: MAP    55   7
+==> inst: 0 38
+8: ZERO        8
+8: MAP    38   8
+==> inst: 0 30
+9: ZERO        9
+9: MAP    30   9
+==> inst: 0 10
+10: ZERO       10
+10: MAP    10  10
+==> inst: 0 45
+11: ZERO       11
+11: MAP    45  11
+==> inst: 0 18
+==> inst: 0 4
+13: ZERO       12
+13: MAP     4  12
+==> inst: 0 9
+14: ZERO       13
+14: MAP     9  13
+==> inst: 0 48
+15: ZERO       14
+15: MAP    48  14
+==> inst: 0 13
+16: ZERO       15
+16: MAP    13  15
+==> inst: 0 25
+==> inst: 0 61
+18: ZERO       16
+18: MAP    61  16
+==> inst: 0 42
+==> inst: 0 42
+==> inst: 0 53
+21: ZERO       17
+21: MAP    53  17
+==> inst: 0 16
+22: ZERO       18
+22: MAP    16  18
+==> inst: 0 55
+==> inst: 0 58
+24: ZERO       19
+24: MAP    58  19
+==> inst: 0 3
+25: ZERO       20
+25: MAP     3  20
+==> inst: 0 34
+26: ZERO       21
+26: MAP    34  21
+==> inst: 0 15
+27: ZERO       22
+27: MAP    15  22
+==> inst: 0 0
+28: ZERO       23
+28: MAP     0  23
+==> inst: 0 2
+29: ZERO       24
+29: MAP     2  24
+==> inst: 0 60
+30: ZERO       25
+30: MAP    60  25
+==> inst: 0 49
+31: ZERO       26
+31: MAP    49  26
+==> inst: 0 26
+32: ZERO       27
+32: MAP    26  27
+==> inst: 0 41
+33: ZERO       28
+33: MAP    41  28
+==> inst: 0 35
+34: ZERO       29
+34: MAP    35  29
+==> inst: 0 1
+35: ZERO       30
+35: MAP     1  30
+==> inst: 0 56
+36: ZERO       31
+36: MAP    56  31
+==> inst: 0 38
+==> inst: 0 40
+38: UNMAP  55   7
+38: ZERO        7
+38: MAP    40   7
+==> inst: 0 16
+==> inst: 0 7
+40: UNMAP  25   6
+40: ZERO        6
+40: MAP     7   6
+==> inst: 0 52
+41: UNMAP  30   9
+41: ZERO        9
+41: MAP    52   9
+==> inst: 0 14
+42: UNMAP  58  19
+42: ZERO       19
+42: MAP    14  19
+==> inst: 0 53
+==> inst: 0 36
+44: UNMAP  53  17
+44: ZERO       17
+44: MAP    36  17
+==> inst: 0 29
+45: UNMAP  56  31
+45: ZERO       31
+45: MAP    29  31
+==> inst: 0 50
+46: UNMAP  10  10
+46: ZERO       10
+46: MAP    50  10
+==> inst: 0 56
+47: UNMAP   4  12
+47: ZERO       12
+47: MAP    56  12
+==> inst: 0 46
+48: UNMAP  52   9
+48: ZERO        9
+48: MAP    46   9
+==> inst: 0 54
+49: UNMAP   9  13
+49: ZERO       13
+49: MAP    54  13
+==> inst: 0 9
+50: UNMAP  49  26
+50: ZERO       26
+50: MAP     9  26
+==> inst: 0 55
+51: UNMAP  45  11
+51: ZERO       11
+51: MAP    55  11
+==> inst: 0 52
+52: UNMAP  16  18
+52: ZERO       18
+52: MAP    52  18
+==> inst: 0 20
+53: UNMAP  26  27
+53: ZERO       27
+53: MAP    20  27
+==> inst: 0 12
+54: UNMAP  42   3
+54: ZERO        3
+54: MAP    12   3
+==> inst: 0 13
+==> inst: 0 9
+==> inst: 0 12
+==> inst: 0 19
+58: UNMAP   7   6
+58: ZERO        6
+58: MAP    19   6
+==> inst: 0 54
+==> inst: 0 5
+60: UNMAP  41  28
+60: ZERO       28
+60: MAP     5  28
+==> inst: 0 41
+61: UNMAP   8   2
+61: ZERO        2
+61: MAP    41   2
+==> inst: 0 57
+62: UNMAP   3  20
+62: ZERO       20
+62: MAP    57  20
+==> inst: 0 17
+63: UNMAP   2  24
+63: ZERO       24
+63: MAP    17  24
+==> inst: 0 16
+64: UNMAP  20  27
+64: ZERO       27
+64: MAP    16  27
+==> inst: 0 10
+65: UNMAP  38   8
+65: ZERO        8
+65: MAP    10   8
+==> inst: 0 10
+==> inst: 0 39
+67: UNMAP  40   7
+67: ZERO        7
+67: MAP    39   7
+==> inst: 0 44
+==> inst: 0 40
+69: UNMAP  54  13
+69: ZERO       13
+69: MAP    40  13
+==> inst: 0 58
+70: UNMAP  15  22
+70: ZERO       22
+70: MAP    58  22
+==> inst: 0 25
+71: UNMAP   9  26
+71: ZERO       26
+71: MAP    25  26
+==> inst: 0 10
+==> inst: 0 39
+==> inst: 0 60
+==> inst: 0 41
+==> inst: 0 5
+==> inst: 0 3
+77: UNMAP  48  14
+77: ZERO       14
+77: MAP     3  14
+==> inst: 0 8
+78: UNMAP  12   3
+78: ZERO        3
+78: MAP     8   3
+==> inst: 0 46
+==> inst: 0 41
+==> inst: 0 6
+81: UNMAP  14  19
+81: ZERO       19
+81: MAP     6  19
+==> inst: 0 8
+==> inst: 0 5
+==> inst: 0 2
+84: UNMAP  29  31
+84: ZERO       31
+84: MAP     2  31
+==> inst: 0 2
+==> inst: 0 56
+==> inst: 0 7
+87: UNMAP  46   9
+87: ZERO        9
+87: MAP     7   9
+==> inst: 0 18
+==> inst: 0 46
+89: UNMAP  25  26
+89: ZERO       26
+89: MAP    46  26
+==> inst: 0 27
+==> inst: 0 21
+91: UNMAP  19   6
+91: ZERO        6
+91: MAP    21   6
+==> inst: 0 4
+92: UNMAP  52  18
+92: ZERO       18
+92: MAP     4  18
+==> inst: 0 41
+==> inst: 0 63
+94: UNMAP  40  13
+94: ZERO       13
+94: MAP    63  13
+==> inst: 0 51
+95: UNMAP   0  23
+95: ZERO       23
+95: MAP    51  23
+==> inst: 0 32
+==> inst: 0 40
+97: UNMAP  36  17
+97: ZERO       17
+97: MAP    40  17
+==> inst: 0 56
+==> inst: 0 47
+99: UNMAP  17  24
+99: ZERO       24
+99: MAP    47  24
+==> inst: 0 40
+==> inst: 0 62
+101: UNMAP   8   3
+101: ZERO        3
+101: MAP    62   3
+==> inst: 0 24
+102: UNMAP  46  26
+102: ZERO       26
+102: MAP    24  26
+==> inst: 0 47
+==> inst: 0 3
+==> inst: 0 10
+==> inst: 0 10
+==> inst: 0 14
+107: UNMAP  32   5
+107: ZERO        5
+107: MAP    14   5
+==> inst: 0 10
+==> inst: 0 32
+109: UNMAP  35  29
+109: ZERO       29
+109: MAP    32  29
+==> inst: 0 33
+110: UNMAP  14   5
+110: ZERO        5
+110: MAP    33   5
+==> inst: 0 60
+==> inst: 0 27
+==> inst: 0 4
+==> inst: 0 30
+114: UNMAP  51  23
+114: ZERO       23
+114: MAP    30  23
+==> inst: 0 21
+==> inst: 0 49
+116: UNMAP  47  24
+116: ZERO       24
+116: MAP    49  24
+==> inst: 0 0
+117: UNMAP   7   9
+117: ZERO        9
+117: MAP     0   9
+==> inst: 0 30
+==> inst: 0 10
+==> inst: 0 23
+120: UNMAP   1  30
+120: ZERO       30
+120: MAP    23  30
+==> inst: 0 13
+==> inst: 0 7
+122: UNMAP  57  20
+122: ZERO       20
+122: MAP     7  20
+==> inst: 0 1
+123: UNMAP  55  11
+123: ZERO       11
+123: MAP     1  11
+==> inst: 0 37
+124: UNMAP   4  18
+124: ZERO       18
+124: MAP    37  18
+==> inst: 0 33
+==> inst: 0 7
+==> inst: 0 32
+==> inst: 0 14
+128: UNMAP  63  13
+128: ZERO       13
+128: MAP    14  13
+==> inst: 0 8
+129: UNMAP  21   6
+129: ZERO        6
+129: MAP     8   6
+==> inst: 0 36
+130: UNMAP  16  27
+130: ZERO       27
+130: MAP    36  27
+==> inst: 0 11
+131: UNMAP   7  20
+131: ZERO       20
+131: MAP    11  20
+==> inst: 0 3
+==> inst: 0 51
+133: UNMAP  11  20
+133: ZERO       20
+133: MAP    51  20
+==> inst: 0 3
+==> inst: 0 16
+135: UNMAP  40  17
+135: ZERO       17
+135: MAP    16  17
+==> inst: 0 30
+==> inst: 0 12
+137: UNMAP   3  14
+137: ZERO       14
+137: MAP    12  14
+==> inst: 0 12
+==> inst: 0 8
+==> inst: 0 0
+==> inst: 0 15
+141: UNMAP  41   2
+141: ZERO        2
+141: MAP    15   2
+==> inst: 0 20
+142: UNMAP  51  20
+142: ZERO       20
+142: MAP    20  20
+==> inst: 0 55
+143: UNMAP  44   1
+143: ZERO        1
+143: MAP    55   1
+==> inst: 0 37
+==> inst: 0 36
+==> inst: 0 43
+146: UNMAP  55   1
+146: ZERO        1
+146: MAP    43   1
+==> inst: 0 55
+147: UNMAP  32  29
+147: ZERO       29
+147: MAP    55  29
+==> inst: 0 8
+==> inst: 0 27
+==> inst: 0 54
+150: UNMAP   5  28
+150: ZERO       28
+150: MAP    54  28
+==> inst: 0 51
+151: UNMAP  39   7
+151: ZERO        7
+151: MAP    51   7
+==> inst: 0 28
+152: UNMAP  61  16
+152: ZERO       16
+152: MAP    28  16
+==> inst: 0 12
+==> inst: 0 23
+==> inst: 0 49
+==> inst: 0 13
+==> inst: 0 36
+==> inst: 0 5
+158: UNMAP   0   9
+158: ZERO        9
+158: MAP     5   9
+==> inst: 0 23
+==> inst: 0 39
+160: UNMAP  23  30
+160: ZERO       30
+160: MAP    39  30
+==> inst: 0 9
+161: UNMAP  43   1
+161: ZERO        1
+161: MAP     9   1
+==> inst: 0 5
+==> inst: 0 16
+==> inst: 0 56
+==> inst: 0 31
+165: UNMAP   9   1
+165: ZERO        1
+165: MAP    31   1
+==> inst: 0 46
+166: UNMAP  31   1
+166: ZERO        1
+166: MAP    46   1
+==> inst: 0 15
+==> inst: 0 34
+==> inst: 0 11
+169: UNMAP  54  28
+169: ZERO       28
+169: MAP    11  28
+==> inst: 0 3
+170: UNMAP  51   7
+170: ZERO        7
+170: MAP     3   7
+==> inst: 0 33
+==> inst: 0 12
+==> inst: 0 3
+==> inst: 0 57
+174: UNMAP  39  30
+174: ZERO       30
+174: MAP    57  30
+==> inst: 0 11
+==> inst: 0 42
+176: UNMAP  46   1
+176: ZERO        1
+176: MAP    42   1
+==> inst: 0 6
+==> inst: 0 32
+178: UNMAP  57  30
+178: ZERO       30
+178: MAP    32  30
+==> inst: 0 9
+179: UNMAP  30  23
+179: ZERO       23
+179: MAP     9  23
+==> inst: 0 20
+==> inst: 0 18
+==> inst: 0 14
+==> inst: 0 33
+==> inst: 0 15
+==> inst: 0 5
+==> inst: 0 0
+186: UNMAP  50  10
+186: ZERO       10
+186: MAP     0  10
+==> inst: 0 43
+187: UNMAP  11  28
+187: ZERO       28
+187: MAP    43  28
+==> inst: 0 4
+188: UNMAP   1  11
+188: ZERO       11
+188: MAP     4  11
+==> inst: 0 38
+189: UNMAP  58  22
+189: ZERO       22
+189: MAP    38  22
+==> inst: 0 21
+190: UNMAP  13  15
+190: ZERO       15
+190: MAP    21  15
+==> inst: 0 37
+==> inst: 0 22
+192: UNMAP  49  24
+192: ZERO       24
+192: MAP    22  24
+==> inst: 0 3
+==> inst: 0 17
+194: UNMAP  43  28
+194: ZERO       28
+194: MAP    17  28
+==> inst: 0 34
+==> inst: 0 5
+==> inst: 0 2
+==> inst: 0 43
+198: UNMAP   0  10
+198: ZERO       10
+198: MAP    43  10
+==> inst: 0 21
+==> inst: 0 29
+200: UNMAP  56  12
+200: ZERO       12
+200: MAP    29  12
+==> inst: 0 26
+201: UNMAP  28  16
+201: ZERO       16
+201: MAP    26  16
+==> inst: 0 16
+==> inst: 0 52
+203: UNMAP  36  27
+203: ZERO       27
+203: MAP    52  27
+==> inst: 0 7
+204: UNMAP  52  27
+204: ZERO       27
+204: MAP     7  27
+==> inst: 0 25
+205: UNMAP  37  18
+205: ZERO       18
+205: MAP    25  18
+==> inst: 0 30
+206: UNMAP  21  15
+206: ZERO       15
+206: MAP    30  15
+==> inst: 0 47
+207: UNMAP  17  28
+207: ZERO       28
+207: MAP    47  28
+==> inst: 0 4
+==> inst: 0 7
+==> inst: 0 9
+==> inst: 0 13
+211: UNMAP  20  20
+211: ZERO       20
+211: MAP    13  20
+==> inst: 0 51
+212: UNMAP  29  12
+212: ZERO       12
+212: MAP    51  12
+==> inst: 0 46
+213: UNMAP  22  24
+213: ZERO       24
+213: MAP    46  24
+==> inst: 0 1
+214: UNMAP   7  27
+214: ZERO       27
+214: MAP     1  27
+==> inst: 0 43
+==> inst: 0 48
+216: UNMAP  47  28
+216: ZERO       28
+216: MAP    48  28
+==> inst: 0 9
+==> inst: 0 31
+218: UNMAP  15   2
+218: ZERO        2
+218: MAP    31   2
+==> inst: 0 35
+219: UNMAP  24  26
+219: ZERO       26
+219: MAP    35  26
+==> inst: 0 38
+==> inst: 0 18
+==> inst: 0 20
+222: UNMAP  32  30
+222: ZERO       30
+222: MAP    20  30
+==> inst: 0 17
+223: UNMAP  62   3
+223: ZERO        3
+223: MAP    17   3
+==> inst: 0 6
+==> inst: 0 0
+225: UNMAP   1  27
+225: ZERO       27
+225: MAP     0  27
+==> inst: 0 17
+==> inst: 0 40
+227: UNMAP  35  26
+227: ZERO       26
+227: MAP    40  26
+==> inst: 0 33
+==> inst: 0 55
+==> inst: 0 45
+230: UNMAP  43  10
+230: ZERO       10
+230: MAP    45  10
+==> inst: 0 14
+==> inst: 0 0
+==> inst: 0 48
+==> inst: 0 33
+==> inst: 0 18
+==> inst: 0 38
+==> inst: 0 35
+237: UNMAP  40  26
+237: ZERO       26
+237: MAP    35  26
+==> inst: 0 1
+238: UNMAP   0  27
+238: ZERO       27
+238: MAP     1  27
+==> inst: 0 36
+239: UNMAP   5   9
+239: ZERO        9
+239: MAP    36   9
+==> inst: 0 31
+==> inst: 0 28
+241: UNMAP  16  17
+241: ZERO       17
+241: MAP    28  17
+==> inst: 0 0
+242: UNMAP   8   6
+242: ZERO        6
+242: MAP     0   6
+==> inst: 0 11
+243: UNMAP  33   5
+243: ZERO        5
+243: MAP    11   5
+==> inst: 0 49
+244: UNMAP  48  28
+244: ZERO       28
+244: MAP    49  28
+==> inst: 0 15
+245: UNMAP  49  28
+245: ZERO       28
+245: MAP    15  28
+==> inst: 0 51
+==> inst: 0 14
+==> inst: 0 8
+248: UNMAP  13  20
+248: ZERO       20
+248: MAP     8  20
+==> inst: 0 24
+249: UNMAP  34  21
+249: ZERO       21
+249: MAP    24  21
+==> inst: 0 35
+==> inst: 0 8
+==> inst: 0 37
+252: UNMAP  46  24
+252: ZERO       24
+252: MAP    37  24
+==> inst: 0 27
+==> inst: 0 56
+254: UNMAP  20  30
+254: ZERO       30
+254: MAP    56  30
+==> inst: 0 56
+==> inst: 0 57
+256: UNMAP  42   1
+256: ZERO        1
+256: MAP    57   1
+==> inst: 0 27
+==> inst: 0 45
+==> inst: 0 30
+==> inst: 0 63
+260: UNMAP  36   9
+260: ZERO        9
+260: MAP    63   9
+==> inst: 0 14
+==> inst: 0 29
+262: UNMAP  60  25
+262: ZERO       25
+262: MAP    29  25
+==> inst: 0 41
+263: UNMAP  15  28
+263: ZERO       28
+263: MAP    41  28
+==> inst: 0 44
+264: UNMAP   1  27
+264: ZERO       27
+264: MAP    44  27
+==> inst: 0 30
+==> inst: 0 7
+266: UNMAP  10   8
+266: ZERO        8
+266: MAP     7   8
+==> inst: 0 50
+267: UNMAP  29  25
+267: ZERO       25
+267: MAP    50  25
+==> inst: 0 34
+268: UNMAP  30  15
+268: ZERO       15
+268: MAP    34  15
+==> inst: 0 31
+==> inst: 0 33
+270: UNMAP  24  21
+270: ZERO       21
+270: MAP    33  21
+==> inst: 0 6
+==> inst: 0 1
+272: UNMAP  28  17
+272: ZERO       17
+272: MAP     1  17
+==> inst: 0 25
+==> inst: 0 25
+==> inst: 0 23
+275: UNMAP   4  11
+275: ZERO       11
+275: MAP    23  11
+==> inst: 0 1
+==> inst: 0 17
+==> inst: 0 21
+278: UNMAP   1  17
+278: ZERO       17
+278: MAP    21  17
+==> inst: 0 19
+279: UNMAP   6  19
+279: ZERO       19
+279: MAP    19  19
+==> inst: 0 19
+==> inst: 0 38
+==> inst: 0 46
+282: UNMAP  11   5
+282: ZERO        5
+282: MAP    46   5
+==> inst: 0 21
+==> inst: 0 63
+==> inst: 0 3
+==> inst: 0 30
+286: UNMAP  34  15
+286: ZERO       15
+286: MAP    30  15
+==> inst: 0 9
+==> inst: 0 56
+==> inst: 0 22
+289: UNMAP   9  23
+289: ZERO       23
+289: MAP    22  23
+==> inst: 0 49
+290: UNMAP  18   0
+290: ZERO        0
+290: MAP    49   0
+==> inst: 0 58
+291: UNMAP  63   9
+291: ZERO        9
+291: MAP    58   9
+==> inst: 0 42
+292: UNMAP  57   1
+292: ZERO        1
+292: MAP    42   1
+==> inst: 0 26
+==> inst: 0 22
+==> inst: 0 22
+==> inst: 0 60
+296: UNMAP  35  26
+296: ZERO       26
+296: MAP    60  26
+==> inst: 0 21
+==> inst: 0 42
+==> inst: 0 11
+299: UNMAP  46   5
+299: ZERO        5
+299: MAP    11   5
+==> inst: 0 60
+==> inst: 0 18
+301: UNMAP  45  10
+301: ZERO       10
+301: MAP    18  10
+==> inst: 0 27
+==> inst: 0 8
+==> inst: 0 16
+304: UNMAP  23  11
+304: ZERO       11
+304: MAP    16  11
+==> inst: 0 55
+==> inst: 0 30
+==> inst: 0 4
+307: UNMAP  16  11
+307: ZERO       11
+307: MAP     4  11
+==> inst: 0 8
+==> inst: 0 30
+==> inst: 0 30
+==> inst: 0 28
+311: UNMAP  26  16
+311: ZERO       16
+311: MAP    28  16
+==> inst: 0 10
+312: UNMAP   7   8
+312: ZERO        8
+312: MAP    10   8
+==> inst: 0 15
+313: UNMAP   3   7
+313: ZERO        7
+313: MAP    15   7
+==> inst: 0 56
+==> inst: 0 42
+==> inst: 0 57
+316: UNMAP  27   4
+316: ZERO        4
+316: MAP    57   4
+==> inst: 0 21
+==> inst: 0 44
+==> inst: 0 60
+==> inst: 0 13
+320: UNMAP  55  29
+320: ZERO       29
+320: MAP    13  29
+==> inst: 0 16
+321: UNMAP   2  31
+321: ZERO       31
+321: MAP    16  31
+==> inst: 0 40
+322: UNMAP  17   3
+322: ZERO        3
+322: MAP    40   3
+==> inst: 0 12
+==> inst: 0 5
+324: UNMAP  56  30
+324: ZERO       30
+324: MAP     5  30
+==> inst: 0 32
+325: UNMAP  10   8
+325: ZERO        8
+325: MAP    32   8
+==> inst: 0 56
+326: UNMAP  41  28
+326: ZERO       28
+326: MAP    56  28
+==> inst: 0 12
+==> inst: 0 8
+==> inst: 0 7
+329: UNMAP  44  27
+329: ZERO       27
+329: MAP     7  27
+==> inst: 0 9
+330: UNMAP  57   4
+330: ZERO        4
+330: MAP     9   4
+==> inst: 0 0
+==> inst: 0 5
+==> inst: 0 33
+==> inst: 0 4
+==> inst: 0 2
+335: UNMAP  11   5
+335: ZERO        5
+335: MAP     2   5
+==> inst: 0 24
+336: UNMAP   8  20
+336: ZERO       20
+336: MAP    24  20
+==> inst: 0 13
+==> inst: 0 55
+338: UNMAP  19  19
+338: ZERO       19
+338: MAP    55  19
+==> inst: 0 8
+339: UNMAP  60  26
+339: ZERO       26
+339: MAP     8  26
+==> inst: 0 20
+340: UNMAP   2   5
+340: ZERO        5
+340: MAP    20   5
+==> inst: 0 41
+341: UNMAP   5  30
+341: ZERO       30
+341: MAP    41  30
+==> inst: 0 63
+342: UNMAP   4  11
+342: ZERO       11
+342: MAP    63  11
+==> inst: 0 25
+==> inst: 0 34
+344: UNMAP  50  25
+344: ZERO       25
+344: MAP    34  25
+==> inst: 0 14
+==> inst: 0 33
+==> inst: 0 2
+347: UNMAP  40   3
+347: ZERO        3
+347: MAP     2   3
+==> inst: 0 45
+348: UNMAP   7  27
+348: ZERO       27
+348: MAP    45  27
+==> inst: 0 36
+349: UNMAP  28  16
+349: ZERO       16
+349: MAP    36  16
+==> inst: 0 14
+==> inst: 0 13
+==> inst: 0 8
+==> inst: 0 2
+==> inst: 0 6
+354: UNMAP   9   4
+354: ZERO        4
+354: MAP     6   4
+==> inst: 0 5
+355: UNMAP   6   4
+355: ZERO        4
+355: MAP     5   4
+==> inst: 0 2
+==> inst: 0 58
+==> inst: 0 56
+==> inst: 0 11
+359: UNMAP  21  17
+359: ZERO       17
+359: MAP    11  17
+==> inst: 0 7
+360: UNMAP  41  30
+360: ZERO       30
+360: MAP     7  30
+==> inst: 0 22
+==> inst: 0 56
+==> inst: 0 29
+363: UNMAP  58   9
+363: ZERO        9
+363: MAP    29   9
+==> inst: 0 9
+364: UNMAP  56  28
+364: ZERO       28
+364: MAP     9  28
+==> inst: 0 32
+==> inst: 0 0
+==> inst: 0 15
+==> inst: 0 25
+==> inst: 0 13
+==> inst: 0 33
+==> inst: 0 11
+==> inst: 0 15
+==> inst: 0 41
+373: UNMAP  18  10
+373: ZERO       10
+373: MAP    41  10
+==> inst: 0 36
+==> inst: 0 48
+375: UNMAP  24  20
+375: ZERO       20
+375: MAP    48  20
+==> inst: 0 30
+==> inst: 0 35
+377: UNMAP  51  12
+377: ZERO       12
+377: MAP    35  12
+==> inst: 0 49
+==> inst: 0 11
+==> inst: 0 25
+==> inst: 0 31
+==> inst: 0 46
+382: UNMAP  25  18
+382: ZERO       18
+382: MAP    46  18
+==> inst: 0 40
+383: UNMAP  45  27
+383: ZERO       27
+383: MAP    40  27
+==> inst: 0 16
+==> inst: 0 0
+==> inst: 0 23
+386: UNMAP  36  16
+386: ZERO       16
+386: MAP    23  16
+==> inst: 0 37
+==> inst: 0 24
+388: UNMAP  30  15
+388: ZERO       15
+388: MAP    24  15
+==> inst: 0 3
+389: UNMAP  40  27
+389: ZERO       27
+389: MAP     3  27
+==> inst: 0 23
+==> inst: 0 1
+391: UNMAP  55  19
+391: ZERO       19
+391: MAP     1  19
+==> inst: 0 10
+392: UNMAP  14  13
+392: ZERO       13
+392: MAP    10  13
+==> inst: 0 31
+==> inst: 0 59
+394: UNMAP   2   3
+394: ZERO        3
+394: MAP    59   3
+==> inst: 0 7
+==> inst: 0 41
+==> inst: 0 0
+==> inst: 0 40
+398: UNMAP  23  16
+398: ZERO       16
+398: MAP    40  16
+==> inst: 0 56
+399: UNMAP  32   8
+399: ZERO        8
+399: MAP    56   8
+==> inst: 0 44
+400: UNMAP  15   7
+400: ZERO        7
+400: MAP    44   7
+==> inst: 0 4
+401: UNMAP  33  21
+401: ZERO       21
+401: MAP     4  21
+==> inst: 0 10
+==> inst: 0 3
+==> inst: 0 12
+==> inst: 0 57
+405: UNMAP   9  28
+405: ZERO       28
+405: MAP    57  28
+==> inst: 0 4
+==> inst: 0 48
+==> inst: 0 36
+408: UNMAP   3  27
+408: ZERO       27
+408: MAP    36  27
+==> inst: 0 20
+==> inst: 0 14
+410: UNMAP  24  15
+410: ZERO       15
+410: MAP    14  15
+==> inst: 0 5
+==> inst: 0 17
+412: UNMAP  31   2
+412: ZERO        2
+412: MAP    17   2
+==> inst: 0 34
+==> inst: 0 52
+414: UNMAP  34  25
+414: ZERO       25
+414: MAP    52  25
+==> inst: 0 9
+415: UNMAP   8  26
+415: ZERO       26
+415: MAP     9  26
+==> inst: 0 26
+416: UNMAP  36  27
+416: ZERO       27
+416: MAP    26  27
+==> inst: 0 58
+417: UNMAP  13  29
+417: ZERO       29
+417: MAP    58  29
+==> inst: 0 5
+==> inst: 0 25
+419: UNMAP   4  21
+419: ZERO       21
+419: MAP    25  21
+==> inst: 0 9
+==> inst: 0 6
+421: UNMAP  63  11
+421: ZERO       11
+421: MAP     6  11
+==> inst: 0 20
+==> inst: 0 33
+423: UNMAP  42   1
+423: ZERO        1
+423: MAP    33   1
+==> inst: 0 22
+==> inst: 0 43
+425: UNMAP   9  26
+425: ZERO       26
+425: MAP    43  26
+==> inst: 0 36
+426: UNMAP  57  28
+426: ZERO       28
+426: MAP    36  28
+==> inst: 0 50
+427: UNMAP  16  31
+427: ZERO       31
+427: MAP    50  31
+==> inst: 0 1
+==> inst: 0 7
+==> inst: 0 4
+430: UNMAP  59   3
+430: ZERO        3
+430: MAP     4   3
+==> inst: 0 30
+431: UNMAP  37  24
+431: ZERO       24
+431: MAP    30  24
+==> inst: 0 37
+432: UNMAP  29   9
+432: ZERO        9
+432: MAP    37   9
+==> inst: 0 19
+433: UNMAP  30  24
+433: ZERO       24
+433: MAP    19  24
+==> inst: 0 29
+434: UNMAP   5   4
+434: ZERO        4
+434: MAP    29   4
+==> inst: 0 9
+435: UNMAP  26  27
+435: ZERO       27
+435: MAP     9  27
+==> inst: 0 17
+==> inst: 0 4
+==> inst: 0 17
+==> inst: 0 57
+439: UNMAP   1  19
+439: ZERO       19
+439: MAP    57  19
+==> inst: 0 47
+440: UNMAP  25  21
+440: ZERO       21
+440: MAP    47  21
+==> inst: 0 32
+441: UNMAP  41  10
+441: ZERO       10
+441: MAP    32  10
+==> inst: 0 32
+==> inst: 0 29
+==> inst: 0 1
+444: UNMAP  12  14
+444: ZERO       14
+444: MAP     1  14
+==> inst: 0 30
+445: UNMAP  56   8
+445: ZERO        8
+445: MAP    30   8
+==> inst: 0 6
+==> inst: 0 43
+==> inst: 0 40
+==> inst: 0 35
+==> inst: 0 4
+==> inst: 0 4
+==> inst: 0 11
+==> inst: 0 12
+453: UNMAP  19  24
+453: ZERO       24
+453: MAP    12  24
+==> inst: 0 58
+==> inst: 0 24
+455: UNMAP  46  18
+455: ZERO       18
+455: MAP    24  18
+==> inst: 0 57
+==> inst: 0 13
+457: UNMAP  12  24
+457: ZERO       24
+457: MAP    13  24
+==> inst: 0 33
+==> inst: 0 10
+==> inst: 0 32
+==> inst: 0 46
+461: UNMAP  49   0
+461: ZERO        0
+461: MAP    46   0
+==> inst: 0 1
+==> inst: 0 31
+463: UNMAP  52  25
+463: ZERO       25
+463: MAP    31  25
+==> inst: 0 43
+==> inst: 0 3
+465: UNMAP  10  13
+465: ZERO       13
+465: MAP     3  13
+==> inst: 0 7
+==> inst: 0 16
+467: UNMAP  58  29
+467: ZERO       29
+467: MAP    16  29
+==> inst: 0 17
+==> inst: 0 4
+==> inst: 0 51
+470: UNMAP  48  20
+470: ZERO       20
+470: MAP    51  20
+==> inst: 0 4
+==> inst: 0 41
+472: UNMAP  36  28
+472: ZERO       28
+472: MAP    41  28
+==> inst: 0 16
+==> inst: 0 12
+474: UNMAP  50  31
+474: ZERO       31
+474: MAP    12  31
+==> inst: 0 2
+475: UNMAP   1  14
+475: ZERO       14
+475: MAP     2  14
+==> inst: 0 20
+==> inst: 0 35
+==> inst: 0 22
+==> inst: 0 9
+==> inst: 0 29
+==> inst: 0 5
+481: UNMAP  22  23
+481: ZERO       23
+481: MAP     5  23
+==> inst: 0 23
+482: UNMAP  43  26
+482: ZERO       26
+482: MAP    23  26
+==> inst: 0 8
+483: UNMAP   6  11
+483: ZERO       11
+483: MAP     8  11
+==> inst: 0 5
+==> inst: 0 7
+==> inst: 0 53
+486: UNMAP  35  12
+486: ZERO       12
+486: MAP    53  12
+==> inst: 0 45
+487: UNMAP  20   5
+487: ZERO        5
+487: MAP    45   5
+==> inst: 0 36
+488: UNMAP  53  12
+488: ZERO       12
+488: MAP    36  12
+==> inst: 0 1
+489: UNMAP   0   6
+489: ZERO        6
+489: MAP     1   6
+==> inst: 0 43
+490: UNMAP  33   1
+490: ZERO        1
+490: MAP    43   1
+==> inst: 0 50
+491: UNMAP   8  11
+491: ZERO       11
+491: MAP    50  11
+==> inst: 0 63
+492: UNMAP  32  10
+492: ZERO       10
+492: MAP    63  10
+==> inst: 0 35
+493: UNMAP  23  26
+493: ZERO       26
+493: MAP    35  26
+==> inst: 0 47
+==> inst: 0 38
+==> inst: 0 8
+496: UNMAP  47  21
+496: ZERO       21
+496: MAP     8  21
+==> inst: 0 6
+497: UNMAP  17   2
+497: ZERO        2
+497: MAP     6   2
+==> inst: 0 14
+==> inst: 0 26
+499: UNMAP   7  30
+499: ZERO       30
+499: MAP    26  30
+==> inst: 0 33
+500: UNMAP  40  16
+500: ZERO       16
+500: MAP    33  16
+==> inst: 0 21
+501: UNMAP   8  21
+501: ZERO       21
+501: MAP    21  21
+==> inst: 0 0
+502: UNMAP  57  19
+502: ZERO       19
+502: MAP     0  19
+==> inst: 0 8
+503: UNMAP   9  27
+503: ZERO       27
+503: MAP     8  27
+==> inst: 0 21
+==> inst: 0 34
+505: UNMAP  29   4
+505: ZERO        4
+505: MAP    34   4
+==> inst: 0 15
+506: UNMAP  41  28
+506: ZERO       28
+506: MAP    15  28
+==> inst: 0 20
+507: UNMAP   0  19
+507: ZERO       19
+507: MAP    20  19
+==> inst: 0 2
+==> inst: 0 45
+==> inst: 0 62
+510: UNMAP  38  22
+510: ZERO       22
+510: MAP    62  22
+==> inst: 0 12
+==> inst: 0 16
+==> inst: 0 49
+513: UNMAP  51  20
+513: ZERO       20
+513: MAP    49  20
+==> inst: 0 43
+==> inst: 0 5
+==> inst: 0 4
+==> inst: 0 60
+517: UNMAP  20  19
+517: ZERO       19
+517: MAP    60  19
+==> inst: 0 51
+518: UNMAP  14  15
+518: ZERO       15
+518: MAP    51  15
+==> inst: 0 45
+==> inst: 0 18
+520: UNMAP   6   2
+520: ZERO        2
+520: MAP    18   2
+==> inst: 0 26
+==> inst: 0 60
+==> inst: 0 3
+==> inst: 0 2
+==> inst: 0 53
+525: UNMAP  33  16
+525: ZERO       16
+525: MAP    53  16
+==> inst: 0 19
+526: UNMAP  34   4
+526: ZERO        4
+526: MAP    19   4
+==> inst: 0 9
+527: UNMAP  26  30
+527: ZERO       30
+527: MAP     9  30
+==> inst: 0 32
+528: UNMAP  51  15
+528: ZERO       15
+528: MAP    32  15
+==> inst: 0 22
+529: UNMAP  24  18
+529: ZERO       18
+529: MAP    22  18
+==> inst: 0 21
+==> inst: 0 48
+531: UNMAP  21  21
+531: ZERO       21
+531: MAP    48  21
+==> inst: 0 8
+==> inst: 0 35
+==> inst: 0 60
+==> inst: 0 17
+535: UNMAP  37   9
+535: ZERO        9
+535: MAP    17   9
+==> inst: 0 56
+536: UNMAP  16  29
+536: ZERO       29
+536: MAP    56  29
+==> inst: 0 4
+==> inst: 0 51
+538: UNMAP  18   2
+538: ZERO        2
+538: MAP    51   2
+==> inst: 0 55
+539: UNMAP   2  14
+539: ZERO       14
+539: MAP    55  14
+==> inst: 0 3
+==> inst: 0 60
+==> inst: 0 0
+542: UNMAP  17   9
+542: ZERO        9
+542: MAP     0   9
+==> inst: 0 12
+==> inst: 0 11
+==> inst: 0 1
+==> inst: 0 16
+546: UNMAP  30   8
+546: ZERO        8
+546: MAP    16   8
+==> inst: 0 12
+==> inst: 0 35
+==> inst: 0 32
+==> inst: 0 20
+550: UNMAP  53  16
+550: ZERO       16
+550: MAP    20  16
+==> inst: 0 63
+==> inst: 0 56
+==> inst: 0 11
+==> inst: 0 13
+==> inst: 0 39
+555: UNMAP  49  20
+555: ZERO       20
+555: MAP    39  20
+==> inst: 0 0
+==> inst: 0 52
+557: UNMAP  22  18
+557: ZERO       18
+557: MAP    52  18
+==> inst: 0 52
+==> inst: 0 33
+559: UNMAP  63  10
+559: ZERO       10
+559: MAP    33  10
+==> inst: 0 56
+==> inst: 0 51
+==> inst: 0 27
+562: UNMAP   0   9
+562: ZERO        9
+562: MAP    27   9
+==> inst: 0 47
+563: UNMAP  39  20
+563: ZERO       20
+563: MAP    47  20
+==> inst: 0 4
+==> inst: 0 50
+==> inst: 0 22
+566: UNMAP  16   8
+566: ZERO        8
+566: MAP    22   8
+==> inst: 0 54
+567: UNMAP  35  26
+567: ZERO       26
+567: MAP    54  26
+==> inst: 0 59
+568: UNMAP  33  10
+568: ZERO       10
+568: MAP    59  10
+==> inst: 0 8
+==> inst: 0 16
+570: UNMAP  15  28
+570: ZERO       28
+570: MAP    16  28
+==> inst: 0 32
+==> inst: 0 31
+==> inst: 0 17
+573: UNMAP  48  21
+573: ZERO       21
+573: MAP    17  21
+==> inst: 0 36
+==> inst: 0 33
+575: UNMAP  55  14
+575: ZERO       14
+575: MAP    33  14
+==> inst: 0 36
+==> inst: 0 53
+577: UNMAP  13  24
+577: ZERO       24
+577: MAP    53  24
+==> inst: 0 35
+578: UNMAP  22   8
+578: ZERO        8
+578: MAP    35   8
+==> inst: 0 22
+579: UNMAP  19   4
+579: ZERO        4
+579: MAP    22   4
+==> inst: 0 7
+580: UNMAP  36  12
+580: ZERO       12
+580: MAP     7  12
+==> inst: 0 15
+581: UNMAP   8  27
+581: ZERO       27
+581: MAP    15  27
+==> inst: 0 7
+==> inst: 0 1
+==> inst: 0 19
+584: UNMAP  60  19
+584: ZERO       19
+584: MAP    19  19
+==> inst: 0 17
+==> inst: 0 5
+==> inst: 0 6
+587: UNMAP  33  14
+587: ZERO       14
+587: MAP     6  14
+==> inst: 0 26
+588: UNMAP   7  12
+588: ZERO       12
+588: MAP    26  12
+==> inst: 0 10
+589: UNMAP   5  23
+589: ZERO       23
+589: MAP    10  23
+==> inst: 0 26
+==> inst: 0 48
+591: UNMAP   3  13
+591: ZERO       13
+591: MAP    48  13
+==> inst: 0 19
+==> inst: 0 22
+==> inst: 0 22
+==> inst: 0 52
+==> inst: 0 11
+==> inst: 0 12
+==> inst: 0 21
+598: UNMAP  15  27
+598: ZERO       27
+598: MAP    21  27
+==> inst: 0 29
+599: UNMAP  27   9
+599: ZERO        9
+599: MAP    29   9
+==> inst: 0 25
+600: UNMAP  51   2
+600: ZERO        2
+600: MAP    25   2
+==> inst: 0 34
+601: UNMAP  45   5
+601: ZERO        5
+601: MAP    34   5
+==> inst: 0 62
+==> inst: 0 18
+603: UNMAP   1   6
+603: ZERO        6
+603: MAP    18   6
+==> inst: 0 14
+604: UNMAP  22   4
+604: ZERO        4
+604: MAP    14   4
+==> inst: 0 40
+605: UNMAP  19  19
+605: ZERO       19
+605: MAP    40  19
+==> inst: 0 26
+==> inst: 0 4
+==> inst: 0 14
+==> inst: 0 1
+609: UNMAP  32  15
+609: ZERO       15
+609: MAP     1  15
+==> inst: 0 25
+==> inst: 0 20
+==> inst: 0 5
+612: UNMAP  48  13
+612: ZERO       13
+612: MAP     5  13
+==> inst: 0 10
+==> inst: 0 0
+614: UNMAP   4   3
+614: ZERO        3
+614: MAP     0   3
+==> inst: 0 22
+615: UNMAP  14   4
+615: ZERO        4
+615: MAP    22   4
+==> inst: 0 44
+==> inst: 0 7
+617: UNMAP  12  31
+617: ZERO       31
+617: MAP     7  31
+==> inst: 0 56
+==> inst: 0 13
+619: UNMAP   5  13
+619: ZERO       13
+619: MAP    13  13
+==> inst: 0 8
+620: UNMAP  13  13
+620: ZERO       13
+620: MAP     8  13
+==> inst: 0 4
+621: UNMAP  47  20
+621: ZERO       20
+621: MAP     4  20
+==> inst: 0 31
+==> inst: 0 35
+==> inst: 0 44
+==> inst: 0 39
+625: UNMAP  62  22
+625: ZERO       22
+625: MAP    39  22
+==> inst: 0 33
+626: UNMAP  44   7
+626: ZERO        7
+626: MAP    33   7
+==> inst: 0 3
+627: UNMAP   9  30
+627: ZERO       30
+627: MAP     3  30
+==> inst: 0 50
+==> inst: 0 17
+==> inst: 0 6
+==> inst: 0 18
+==> inst: 0 61
+632: UNMAP  52  18
+632: ZERO       18
+632: MAP    61  18
+==> inst: 0 38
+633: UNMAP  16  28
+633: ZERO       28
+633: MAP    38  28
+==> inst: 0 4
+==> inst: 0 6
+==> inst: 0 1
+==> inst: 0 1
+==> inst: 0 23
+638: UNMAP  26  12
+638: ZERO       12
+638: MAP    23  12
+==> inst: 0 29
+==> inst: 0 20
+==> inst: 0 28
+641: UNMAP  59  10
+641: ZERO       10
+641: MAP    28  10
+==> inst: 0 22
+==> inst: 0 50
+==> inst: 0 62
+644: UNMAP  22   4
+644: ZERO        4
+644: MAP    62   4
+==> inst: 0 8
+==> inst: 0 4
+==> inst: 0 2
+647: UNMAP  20  16
+647: ZERO       16
+647: MAP     2  16
+==> inst: 0 6
+==> inst: 0 62
+==> inst: 0 42
+650: UNMAP  39  22
+650: ZERO       22
+650: MAP    42  22
+==> inst: 0 28
+==> inst: 0 19
+652: UNMAP  46   0
+652: ZERO        0
+652: MAP    19   0
+==> inst: 0 21
+==> inst: 0 14
+654: UNMAP   0   3
+654: ZERO        3
+654: MAP    14   3
+==> inst: 0 6
+==> inst: 0 15
+656: UNMAP  34   5
+656: ZERO        5
+656: MAP    15   5
+==> inst: 0 47
+657: UNMAP  23  12
+657: ZERO       12
+657: MAP    47  12
+==> inst: 0 18
+==> inst: 0 6
+==> inst: 0 57
+660: UNMAP  21  27
+660: ZERO       27
+660: MAP    57  27
+==> inst: 0 24
+661: UNMAP  61  18
+661: ZERO       18
+661: MAP    24  18
+==> inst: 0 56
+==> inst: 0 5
+663: UNMAP  33   7
+663: ZERO        7
+663: MAP     5   7
+==> inst: 0 15
+==> inst: 0 14
+==> inst: 0 11
+==> inst: 0 54
+==> inst: 0 23
+668: UNMAP  62   4
+668: ZERO        4
+668: MAP    23   4
+==> inst: 0 27
+669: UNMAP   4  20
+669: ZERO       20
+669: MAP    27  20
+==> inst: 0 18
+==> inst: 0 27
+==> inst: 0 21
+672: UNMAP  47  12
+672: ZERO       12
+672: MAP    21  12
+==> inst: 0 27
+==> inst: 0 2
+==> inst: 0 9
+675: UNMAP  50  11
+675: ZERO       11
+675: MAP     9  11
+==> inst: 0 1
+==> inst: 0 1
+==> inst: 0 13
+678: UNMAP  31  25
+678: ZERO       25
+678: MAP    13  25
+==> inst: 0 1
+==> inst: 0 12
+680: UNMAP  19   0
+680: ZERO        0
+680: MAP    12   0
+==> inst: 0 40
+==> inst: 0 10
+==> inst: 0 8
+==> inst: 0 0
+684: UNMAP  54  26
+684: ZERO       26
+684: MAP     0  26
+==> inst: 0 26
+685: UNMAP  18   6
+685: ZERO        6
+685: MAP    26   6
+==> inst: 0 23
+==> inst: 0 5
+==> inst: 0 21
+==> inst: 0 42
+==> inst: 0 18
+690: UNMAP  14   3
+690: ZERO        3
+690: MAP    18   3
+==> inst: 0 26
+==> inst: 0 38
+==> inst: 0 19
+693: UNMAP   3  30
+693: ZERO       30
+693: MAP    19  30
+==> inst: 0 41
+694: UNMAP  15   5
+694: ZERO        5
+694: MAP    41   5
+==> inst: 0 33
+695: UNMAP  11  17
+695: ZERO       17
+695: MAP    33  17
+==> inst: 0 45
+696: UNMAP  21  12
+696: ZERO       12
+696: MAP    45  12
+==> inst: 0 28
+==> inst: 0 1
+==> inst: 0 44
+699: UNMAP  13  25
+699: ZERO       25
+699: MAP    44  25
+==> inst: 0 26
+==> inst: 0 20
+701: UNMAP   5   7
+701: ZERO        7
+701: MAP    20   7
+==> inst: 0 19
+==> inst: 0 58
+703: UNMAP  40  19
+703: ZERO       19
+703: MAP    58  19
+==> inst: 0 11
+704: UNMAP  10  23
+704: ZERO       23
+704: MAP    11  23
+==> inst: 0 18
+==> inst: 0 37
+706: UNMAP  44  25
+706: ZERO       25
+706: MAP    37  25
+==> inst: 0 3
+707: UNMAP   2  16
+707: ZERO       16
+707: MAP     3  16
+==> inst: 0 25
+==> inst: 0 20
+==> inst: 0 58
+==> inst: 0 13
+711: UNMAP  18   3
+711: ZERO        3
+711: MAP    13   3
+==> inst: 0 22
+712: UNMAP  13   3
+712: ZERO        3
+712: MAP    22   3
+==> inst: 0 45
+==> inst: 0 32
+714: UNMAP  27  20
+714: ZERO       20
+714: MAP    32  20
+==> inst: 0 27
+715: UNMAP  58  19
+715: ZERO       19
+715: MAP    27  19
+==> inst: 0 56
+==> inst: 0 8
+==> inst: 0 26
+==> inst: 0 9
+==> inst: 0 50
+720: UNMAP  37  25
+720: ZERO       25
+720: MAP    50  25
+==> inst: 0 21
+721: UNMAP  32  20
+721: ZERO       20
+721: MAP    21  20
+==> inst: 0 27
+==> inst: 0 63
+723: UNMAP  11  23
+723: ZERO       23
+723: MAP    63  23
+==> inst: 0 1
+==> inst: 0 14
+725: UNMAP  19  30
+725: ZERO       30
+725: MAP    14  30
+==> inst: 0 25
+==> inst: 0 39
+727: UNMAP  12   0
+727: ZERO        0
+727: MAP    39   0
+==> inst: 0 22
+==> inst: 0 24
+==> inst: 0 5
+730: UNMAP  24  18
+730: ZERO       18
+730: MAP     5  18
+==> inst: 0 12
+731: UNMAP   3  16
+731: ZERO       16
+731: MAP    12  16
+==> inst: 0 0
+==> inst: 0 18
+733: UNMAP  35   8
+733: ZERO        8
+733: MAP    18   8
+==> inst: 0 32
+734: UNMAP  42  22
+734: ZERO       22
+734: MAP    32  22
+==> inst: 0 16
+735: UNMAP  41   5
+735: ZERO        5
+735: MAP    16   5
+==> inst: 0 9
+==> inst: 0 2
+737: UNMAP  21  20
+737: ZERO       20
+737: MAP     2  20
+==> inst: 0 14
+==> inst: 0 46
+739: UNMAP  43   1
+739: ZERO        1
+739: MAP    46   1
+==> inst: 0 23
+==> inst: 0 14
+==> inst: 0 41
+742: UNMAP  14  30
+742: ZERO       30
+742: MAP    41  30
+==> inst: 0 63
+==> inst: 0 29
+==> inst: 0 15
+745: UNMAP   2  20
+745: ZERO       20
+745: MAP    15  20
+==> inst: 0 26
+==> inst: 0 41
+==> inst: 0 4
+748: UNMAP  38  28
+748: ZERO       28
+748: MAP     4  28
+==> inst: 0 5
+==> inst: 0 40
+750: UNMAP  23   4
+750: ZERO        4
+750: MAP    40   4
+==> inst: 0 9
+==> inst: 0 11
+752: UNMAP  53  24
+752: ZERO       24
+752: MAP    11  24
+==> inst: 0 39
+==> inst: 0 14
+754: UNMAP   0  26
+754: ZERO       26
+754: MAP    14  26
+==> inst: 0 58
+755: UNMAP  29   9
+755: ZERO        9
+755: MAP    58   9
+==> inst: 0 36
+756: UNMAP  58   9
+756: ZERO        9
+756: MAP    36   9
+==> inst: 0 44
+757: UNMAP  26   6
+757: ZERO        6
+757: MAP    44   6
+==> inst: 0 14
+==> inst: 0 35
+759: UNMAP  22   3
+759: ZERO        3
+759: MAP    35   3
+==> inst: 0 12
+==> inst: 0 31
+761: UNMAP  12  16
+761: ZERO       16
+761: MAP    31  16
+==> inst: 0 33
+==> inst: 0 17
+==> inst: 0 24
+764: UNMAP  14  26
+764: ZERO       26
+764: MAP    24  26
+==> inst: 0 22
+765: UNMAP  24  26
+765: ZERO       26
+765: MAP    22  26
+==> inst: 0 60
+766: UNMAP  36   9
+766: ZERO        9
+766: MAP    60   9
+==> inst: 0 9
+==> inst: 0 58
+768: UNMAP  28  10
+768: ZERO       10
+768: MAP    58  10
+==> inst: 0 47
+769: UNMAP  41  30
+769: ZERO       30
+769: MAP    47  30
+==> inst: 0 23
+770: UNMAP  45  12
+770: ZERO       12
+770: MAP    23  12
+==> inst: 0 2
+771: UNMAP  47  30
+771: ZERO       30
+771: MAP     2  30
+==> inst: 0 2
+==> inst: 0 32
+==> inst: 0 32
+==> inst: 0 12
+775: UNMAP  33  17
+775: ZERO       17
+775: MAP    12  17
+==> inst: 0 14
+776: UNMAP  16   5
+776: ZERO        5
+776: MAP    14   5
+==> inst: 0 39
+==> inst: 0 11
+==> inst: 0 37
+779: UNMAP  27  19
+779: ZERO       19
+779: MAP    37  19
+==> inst: 0 31
+==> inst: 0 0
+781: UNMAP  18   8
+781: ZERO        8
+781: MAP     0   8
+==> inst: 0 48
+782: UNMAP  40   4
+782: ZERO        4
+782: MAP    48   4
+==> inst: 0 46
+==> inst: 0 7
+==> inst: 0 1
+==> inst: 0 19
+786: UNMAP  37  19
+786: ZERO       19
+786: MAP    19  19
+==> inst: 0 48
+==> inst: 0 58
+==> inst: 0 48
+==> inst: 0 42
+790: UNMAP  22  26
+790: ZERO       26
+790: MAP    42  26
+==> inst: 0 23
+==> inst: 0 0
+==> inst: 0 1
+==> inst: 0 14
+==> inst: 0 1
+==> inst: 0 53
+796: UNMAP  15  20
+796: ZERO       20
+796: MAP    53  20
+==> inst: 0 24
+797: UNMAP  57  27
+797: ZERO       27
+797: MAP    24  27
+==> inst: 0 11
+==> inst: 0 26
+799: UNMAP  12  17
+799: ZERO       17
+799: MAP    26  17
+==> inst: 0 60
+==> inst: 0 3
+801: UNMAP  50  25
+801: ZERO       25
+801: MAP     3  25
+==> inst: 0 35
+==> inst: 0 48
+==> inst: 0 17
+==> inst: 0 8
+==> inst: 0 45
+806: UNMAP  31  16
+806: ZERO       16
+806: MAP    45  16
+==> inst: 0 10
+807: UNMAP   5  18
+807: ZERO       18
+807: MAP    10  18
+==> inst: 0 53
+==> inst: 0 3
+==> inst: 0 0
+==> inst: 0 6
+==> inst: 0 6
+==> inst: 0 33
+813: UNMAP  63  23
+813: ZERO       23
+813: MAP    33  23
+==> inst: 0 62
+814: UNMAP  48   4
+814: ZERO        4
+814: MAP    62   4
+==> inst: 0 50
+815: UNMAP   6  14
+815: ZERO       14
+815: MAP    50  14
+==> inst: 0 41
+816: UNMAP  24  27
+816: ZERO       27
+816: MAP    41  27
+==> inst: 0 15
+817: UNMAP   4  28
+817: ZERO       28
+817: MAP    15  28
+==> inst: 0 52
+818: UNMAP  60   9
+818: ZERO        9
+818: MAP    52   9
+==> inst: 0 2
+==> inst: 0 50
+==> inst: 0 19
+==> inst: 0 57
+822: UNMAP  14   5
+822: ZERO        5
+822: MAP    57   5
+==> inst: 0 23
+==> inst: 0 55
+824: UNMAP  57   5
+824: ZERO        5
+824: MAP    55   5
+==> inst: 0 1
+==> inst: 0 37
+826: UNMAP   1  15
+826: ZERO       15
+826: MAP    37  15
+==> inst: 0 46
+==> inst: 0 49
+828: UNMAP   0   8
+828: ZERO        8
+828: MAP    49   8
+==> inst: 0 12
+829: UNMAP  17  21
+829: ZERO       21
+829: MAP    12  21
+==> inst: 0 33
+==> inst: 0 43
+831: UNMAP  52   9
+831: ZERO        9
+831: MAP    43   9
+==> inst: 0 4
+832: UNMAP  25   2
+832: ZERO        2
+832: MAP     4   2
+==> inst: 0 49
+==> inst: 0 13
+834: UNMAP   2  30
+834: ZERO       30
+834: MAP    13  30
+==> inst: 0 11
+==> inst: 0 7
+==> inst: 0 47
+837: UNMAP  19  19
+837: ZERO       19
+837: MAP    47  19
+==> inst: 0 14
+838: UNMAP  39   0
+838: ZERO        0
+838: MAP    14   0
+==> inst: 0 56
+==> inst: 0 53
+==> inst: 0 6
+841: UNMAP  58  10
+841: ZERO       10
+841: MAP     6  10
+==> inst: 0 7
+==> inst: 0 21
+843: UNMAP  10  18
+843: ZERO       18
+843: MAP    21  18
+==> inst: 0 21
+==> inst: 0 48
+845: UNMAP  21  18
+845: ZERO       18
+845: MAP    48  18
+==> inst: 0 53
+==> inst: 0 24
+847: UNMAP  45  16
+847: ZERO       16
+847: MAP    24  16
+==> inst: 0 41
+==> inst: 0 62
+==> inst: 0 11
+==> inst: 0 8
+==> inst: 0 54
+852: UNMAP  55   5
+852: ZERO        5
+852: MAP    54   5
+==> inst: 0 26
+==> inst: 0 15
+==> inst: 0 21
+855: UNMAP  42  26
+855: ZERO       26
+855: MAP    21  26
+==> inst: 0 20
+==> inst: 0 48
+==> inst: 0 29
+858: UNMAP  53  20
+858: ZERO       20
+858: MAP    29  20
+==> inst: 0 31
+859: UNMAP  11  24
+859: ZERO       24
+859: MAP    31  24
+==> inst: 0 1
+860: UNMAP  12  21
+860: ZERO       21
+860: MAP     1  21
+==> inst: 0 5
+861: UNMAP  49   8
+861: ZERO        8
+861: MAP     5   8
+==> inst: 0 3
+==> inst: 0 56
+==> inst: 0 63
+864: UNMAP  29  20
+864: ZERO       20
+864: MAP    63  20
+==> inst: 0 52
+865: UNMAP  44   6
+865: ZERO        6
+865: MAP    52   6
+==> inst: 0 6
+==> inst: 0 36
+867: UNMAP   4   2
+867: ZERO        2
+867: MAP    36   2
+==> inst: 0 5
+==> inst: 0 12
+869: UNMAP  62   4
+869: ZERO        4
+869: MAP    12   4
+==> inst: 0 35
+==> inst: 0 38
+871: UNMAP  31  24
+871: ZERO       24
+871: MAP    38  24
+==> inst: 0 15
+==> inst: 0 38
+==> inst: 0 49
+874: UNMAP   3  25
+874: ZERO       25
+874: MAP    49  25
+==> inst: 0 60
+875: UNMAP   5   8
+875: ZERO        8
+875: MAP    60   8
+==> inst: 0 44
+876: UNMAP  20   7
+876: ZERO        7
+876: MAP    44   7
+==> inst: 0 46
+==> inst: 0 40
+878: UNMAP   1  21
+878: ZERO       21
+878: MAP    40  21
+==> inst: 0 39
+879: UNMAP  54   5
+879: ZERO        5
+879: MAP    39   5
+==> inst: 0 34
+880: UNMAP  24  16
+880: ZERO       16
+880: MAP    34  16
+==> inst: 0 62
+881: UNMAP  21  26
+881: ZERO       26
+881: MAP    62  26
+==> inst: 0 37
+==> inst: 0 48
+==> inst: 0 53
+884: UNMAP   6  10
+884: ZERO       10
+884: MAP    53  10
+==> inst: 0 13
+==> inst: 0 48
+==> inst: 0 36
+==> inst: 0 27
+888: UNMAP   7  31
+888: ZERO       31
+888: MAP    27  31
+==> inst: 0 4
+889: UNMAP  36   2
+889: ZERO        2
+889: MAP     4   2
+==> inst: 0 40
+==> inst: 0 12
+==> inst: 0 7
+892: UNMAP  14   0
+892: ZERO        0
+892: MAP     7   0
+==> inst: 0 19
+893: UNMAP  43   9
+893: ZERO        9
+893: MAP    19   9
+==> inst: 0 48
+==> inst: 0 32
+==> inst: 0 41
+==> inst: 0 13
+==> inst: 0 13
+==> inst: 0 12
+==> inst: 0 11
+900: UNMAP  12   4
+900: ZERO        4
+900: MAP    11   4
+==> inst: 0 42
+901: UNMAP  13  30
+901: ZERO       30
+901: MAP    42  30
+==> inst: 0 29
+902: UNMAP  15  28
+902: ZERO       28
+902: MAP    29  28
+==> inst: 0 12
+903: UNMAP  39   5
+903: ZERO        5
+903: MAP    12   5
+==> inst: 0 50
+==> inst: 0 26
+==> inst: 0 22
+906: UNMAP  19   9
+906: ZERO        9
+906: MAP    22   9
+==> inst: 0 5
+907: UNMAP  50  14
+907: ZERO       14
+907: MAP     5  14
+==> inst: 0 55
+908: UNMAP  33  23
+908: ZERO       23
+908: MAP    55  23
+==> inst: 0 27
+==> inst: 0 36
+910: UNMAP  49  25
+910: ZERO       25
+910: MAP    36  25
+==> inst: 0 11
+==> inst: 0 46
+==> inst: 0 54
+913: UNMAP  47  19
+913: ZERO       19
+913: MAP    54  19
+==> inst: 0 36
+==> inst: 0 14
+915: UNMAP  26  17
+915: ZERO       17
+915: MAP    14  17
+==> inst: 0 42
+==> inst: 0 1
+917: UNMAP   8  13
+917: ZERO       13
+917: MAP     1  13
+==> inst: 0 27
+==> inst: 0 23
+==> inst: 0 39
+920: UNMAP  23  12
+920: ZERO       12
+920: MAP    39  12
+==> inst: 0 0
+921: UNMAP  52   6
+921: ZERO        6
+921: MAP     0   6
+==> inst: 0 48
+==> inst: 0 49
+923: UNMAP  40  21
+923: ZERO       21
+923: MAP    49  21
+==> inst: 0 36
+==> inst: 0 25
+925: UNMAP   7   0
+925: ZERO        0
+925: MAP    25   0
+==> inst: 0 29
+==> inst: 0 47
+927: UNMAP  39  12
+927: ZERO       12
+927: MAP    47  12
+==> inst: 0 14
+==> inst: 0 25
+==> inst: 0 57
+930: UNMAP  55  23
+930: ZERO       23
+930: MAP    57  23
+==> inst: 0 59
+931: UNMAP  11   4
+931: ZERO        4
+931: MAP    59   4
+==> inst: 0 57
+==> inst: 0 2
+933: UNMAP  12   5
+933: ZERO        5
+933: MAP     2   5
+==> inst: 0 15
+934: UNMAP  14  17
+934: ZERO       17
+934: MAP    15  17
+==> inst: 0 55
+935: UNMAP  47  12
+935: ZERO       12
+935: MAP    55  12
+==> inst: 0 28
+936: UNMAP  55  12
+936: ZERO       12
+936: MAP    28  12
+==> inst: 0 11
+937: UNMAP   0   6
+937: ZERO        6
+937: MAP    11   6
+==> inst: 0 3
+938: UNMAP  15  17
+938: ZERO       17
+938: MAP     3  17
+==> inst: 0 6
+939: UNMAP  29  28
+939: ZERO       28
+939: MAP     6  28
+==> inst: 0 25
+==> inst: 0 6
+==> inst: 0 21
+942: UNMAP  25   0
+942: ZERO        0
+942: MAP    21   0
+==> inst: 0 25
+943: UNMAP   6  28
+943: ZERO       28
+943: MAP    25  28
+==> inst: 0 39
+944: UNMAP  41  27
+944: ZERO       27
+944: MAP    39  27
+==> inst: 0 44
+==> inst: 0 52
+946: UNMAP   4   2
+946: ZERO        2
+946: MAP    52   2
+==> inst: 0 17
+947: UNMAP  25  28
+947: ZERO       28
+947: MAP    17  28
+==> inst: 0 41
+948: UNMAP  59   4
+948: ZERO        4
+948: MAP    41   4
+==> inst: 0 14
+949: UNMAP  11   6
+949: ZERO        6
+949: MAP    14   6
+==> inst: 0 63
+==> inst: 0 6
+951: UNMAP  62  26
+951: ZERO       26
+951: MAP     6  26
+==> inst: 0 7
+952: UNMAP  46   1
+952: ZERO        1
+952: MAP     7   1
+==> inst: 0 60
+==> inst: 0 26
+954: UNMAP   9  11
+954: ZERO       11
+954: MAP    26  11
+==> inst: 0 0
+955: UNMAP  35   3
+955: ZERO        3
+955: MAP     0   3
+==> inst: 0 46
+956: UNMAP  37  15
+956: ZERO       15
+956: MAP    46  15
+==> inst: 0 7
+==> inst: 0 6
+==> inst: 0 2
+==> inst: 0 39
+==> inst: 0 28
+==> inst: 0 31
+962: UNMAP  52   2
+962: ZERO        2
+962: MAP    31   2
+==> inst: 0 21
+==> inst: 0 18
+964: UNMAP  17  28
+964: ZERO       28
+964: MAP    18  28
+==> inst: 0 22
+==> inst: 0 0
+==> inst: 0 60
+==> inst: 0 1
+==> inst: 0 20
+969: UNMAP   0   3
+969: ZERO        3
+969: MAP    20   3
+==> inst: 0 2
+==> inst: 0 34
+==> inst: 0 31
+==> inst: 0 6
+==> inst: 0 24
+974: UNMAP  63  20
+974: ZERO       20
+974: MAP    24  20
+==> inst: 0 35
+975: UNMAP  22   9
+975: ZERO        9
+975: MAP    35   9
+==> inst: 0 2
+==> inst: 0 49
+==> inst: 0 8
+978: UNMAP  46  15
+978: ZERO       15
+978: MAP     8  15
+==> inst: 0 1
+==> inst: 0 2
+==> inst: 0 63
+981: UNMAP   6  26
+981: ZERO       26
+981: MAP    63  26
+==> inst: 0 4
+982: UNMAP  27  31
+982: ZERO       31
+982: MAP     4  31
+==> inst: 0 11
+983: UNMAP   8  15
+983: ZERO       15
+983: MAP    11  15
+==> inst: 0 53
+==> inst: 0 41
+==> inst: 0 5
+==> inst: 0 48
+==> inst: 0 9
+988: UNMAP  44   7
+988: ZERO        7
+988: MAP     9   7
+==> inst: 0 26
+==> inst: 0 8
+990: UNMAP  32  22
+990: ZERO       22
+990: MAP     8  22
+==> inst: 0 60
+==> inst: 0 21
+==> inst: 0 53
+==> inst: 0 4
+==> inst: 0 10
+995: UNMAP  54  19
+995: ZERO       19
+995: MAP    10  19
+==> inst: 0 19
+996: UNMAP  28  12
+996: ZERO       12
+996: MAP    19  12
+==> inst: 0 10
+==> inst: 0 8
+==> inst: 0 35
+* 1:R-- 2:R-- 3:R-- 4:R-- 5:R-- * 7:R-- 8:R-- 9:R-- 10:R-- 11:R-- * * 14:R-- * * * 18:R-- 19:R-- 20:R-- 21:R-- * * 24:R-- * 26:R-- * * * * 31:R-- * * 34:R-- 35:R-- 36:R-- * 38:R-- 39:R-- * 41:R-- 42:R-- * * * * * 48:R-- 49:R-- * * * 53:R-- * * 56:R-- 57:R-- * * 60:R-- * * 63:R-- 
+21 7 31 20 41 2 14 9 60 35 53 26 19 1 5 11 34 3 48 10 24 49 8 57 38 36 63 39 18 56 42 4 
+SUM 1000 U=470 M=502 I=0 O=0 Z=502 ===> 465100
